@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Sathish</h1>
-<h3 align="center">A passionate full stack developer from India</h3> <br>
+<h3 align="center">Responsible For Managing Data Retrieval And Analysis Within An Organization. </h3> <br>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-- 🔭 I'm currently studying as a full stack developer at RVS CAS
-- 👯 I’m looking to collaborate with web development projects
-- ⚡ Fun fact: I love to travel and playing games
+- 🔭 I'm currently studying as a Business Intelligenceat RVS CAS
+- 👯 I’m looking to collaborate with Business Analytics project
+- ⚡ Fun fact: I love to travel and Video Editing
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me **velava1411@gmail.com**
+- 📫 How to reach me **sathishkumarv180@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velava1411&label=Profile%20views&color=0e75b6&style=flat" alt="velava1411" /> </p>
 
