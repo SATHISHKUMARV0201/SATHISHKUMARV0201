@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SATHISHKUMARV0201&label=Profile%20views&color=0e75b6&style=flat" alt="SATHISHKUMARV0201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velava1411" alt="velava1411" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SATHISHKUMARV0201" alt="SATHISHKUMARV0201" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/velava1411" target="blank"><img src="https://img.shields.io/twitter/follow/velava1411?logo=twitter&style=for-the-badge" alt="velava1411" /></a> </p>
 
