@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Sathish</h1>
 <h3 align="center"> Responsible for managing data retrieval and analysis within an organization.. </h3> <br>
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="left" alt="GIF" src="https://images.prismic.io/smarttask/06832d30-f058-415e-934b-0563721fb7fa_Business+Impact+Analysis.gif?auto=compress,format" width="400"/>
 
 - 🔭 I'm currently studying as a Business Intelligence at RVS CAS
 - 👯 I’m looking to collaborate with Business Analytics project
