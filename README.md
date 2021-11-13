@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Velava</h1>
+<h1 align="center">Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Sathish</h1>
 <h3 align="center">A passionate full stack developer from India</h3> <br>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
