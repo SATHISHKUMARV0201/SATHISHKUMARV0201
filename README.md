@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Sathish</h1>
-<h3 align="center">Responsible For Managing Data Retrieval And Analysis Within An Organization. </h3> <br>
+<h3 align="center"> Responsible for managing data retrieval and analysis within an organization.. </h3> <br>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-- 🔭 I'm currently studying as a Business Intelligenceat RVS CAS
+- 🔭 I'm currently studying as a Business Intelligence at RVS CAS
 - 👯 I’m looking to collaborate with Business Analytics project
 - ⚡ Fun fact: I love to travel and Video Editing
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **sathishkumarv180@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velava1411&label=Profile%20views&color=0e75b6&style=flat" alt="velava1411" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SATHISHKUMARV0201&label=Profile%20views&color=0e75b6&style=flat" alt="SATHISHKUMARV0201" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velava1411" alt="velava1411" /></a> </p>
 
