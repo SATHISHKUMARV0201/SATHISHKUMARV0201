@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SATHISHKUMARV0201" alt="SATHISHKUMARV0201" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/SATHISHKUMARV0201" target="blank"><img src="https://img.shields.io/twitter/follow/SATHISHKUMARV0201?logo=twitter&style=for-the-badge" alt="SATHISHKUMARV0201" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SATHISHV0201" target="blank"><img src="https://img.shields.io/twitter/follow/SATHISHV0201?logo=twitter&style=for-the-badge" alt="SATHISHV0201" /></a> </p>
 
 
 
