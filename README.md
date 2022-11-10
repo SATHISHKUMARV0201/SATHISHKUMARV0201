@@ -22,7 +22,7 @@
 <a href="https://twitter.com/SATHISHV0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SATHISHV0201" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sathishkumarv180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathishkumarv180/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/me/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/look_me_and_love_me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/look_me_and_love_me/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sk_visuvasam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sk_visuvasam/" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <b>Show some ❤️ by starring some of the repositories!</b> </p>
