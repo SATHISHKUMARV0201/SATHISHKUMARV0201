@@ -3,7 +3,7 @@
 <h3 align="center"> Responsible for managing data retrieval and analysis within an organization... </h3> <br>
 <img align="left" alt="GIF" src="https://images.prismic.io/smarttask/06832d30-f058-415e-934b-0563721fb7fa_Business+Impact+Analysis.gif?auto=compress,format" width="600"/>
 
-- 🔭 I'm currently studying as a Business Intelligence at RVS CAS
+- 🔭 I'm currently Working as a Business Analyst at Crayonte
 - 👯 I’m looking to collaborate with Business Analytics project
 - ⚡ Fun fact: I love to travel and Video Editing
 - 💬 Ask me about anything, I am happy to help;
